@@ -1,0 +1,19 @@
+/* 
+    em - works with its parent size 1em is 16px
+    rem - it also works like em
+    % - it gives values to elements by its parent!
+    px - its represents pixel in css.
+ */
+
+
+ 
+main{
+    /* width: 50%; */
+    width: 50vw;
+    border: 5px solid brown;
+}
+
+section{
+    width: 50%;
+    border: 5px dashed darkmagenta;
+}
